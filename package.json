@@ -1,6 +1,6 @@
 {
   "name": "in-this-house-we",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "In This House We meme generator",
   "main": "index.js",
   "bin": "./bin/index.js",

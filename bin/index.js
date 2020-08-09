@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-const inThisHouseWe = require("../index").default;
+const inThisHouseWe = require("../index");
 
 const args = process.argv.slice(2);
 

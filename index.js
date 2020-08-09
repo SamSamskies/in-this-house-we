@@ -10,4 +10,4 @@ ${text}
 ▔▏┗┻┛┃┃┗┻┛▕▔
 `;
 
-exports.default = inThisHouseWe;
+module.exports = inThisHouseWe;
